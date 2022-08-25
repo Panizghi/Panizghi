@@ -1,2 +1,1 @@
-Hi! My name is Paniz !
-I am a first year Software engineering student at uw :)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
