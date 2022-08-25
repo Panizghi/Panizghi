@@ -1,2 +1,1 @@
- ![Snake animation](https://github.com/panizghi/panizghi/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
