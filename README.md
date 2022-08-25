@@ -1,9 +1,7 @@
+# Hi!
 
-
-
-![](https://raw.githubusercontent.com/panizghi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/panizghi/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+> Many people find it hard to pronounce my name, so a trick to it is to call me bunnies with "P"! I am a second-year Software Engineering Student at the University of Waterloo :)
+>
 
 
 
