@@ -1,6 +1,6 @@
-# Hi! 
+# Hello World! 
 
-> Many people find it hard to pronounce my name, so a trick to it is to call me bunnies with "P"! I am a second-year Software Engineering Student at the University of Waterloo :)I love to improve and customize the project that I work on.
+> Many people find it hard to pronounce my name, so a trick to it is to call me bunnies with "P"! I am a second-year Software Engineering Student at the University of Waterloo :)
 > 
 
 
