@@ -27,5 +27,5 @@ jobs:
           # Options
           user: Panizghi
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/Toronto
